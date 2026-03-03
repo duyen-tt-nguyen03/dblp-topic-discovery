@@ -1,8 +1,7 @@
 # **Discovering and Predicting Research Topics in Computer Science (DBLP Dataset)**
 
-## **Team Members**
+## **Author**
 * Duyen Thanh Thao Nguyen (myUH ID: 2329157)
-* An Tran (myUH ID: 2261820)
 
 ## **Overview**
 
