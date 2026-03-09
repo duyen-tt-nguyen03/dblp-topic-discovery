@@ -1,7 +1,7 @@
 # **Discovering and Predicting Research Topics in Computer Science (DBLP Dataset)**
 
 ## **Author**
-* Duyen Thanh Thao Nguyen 
+Duyen Thanh Thao Nguyen 
 
 ## **Overview**
 
